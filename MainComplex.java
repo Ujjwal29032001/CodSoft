@@ -1,7 +1,6 @@
 import java.util.Scanner;
 import java.io.*
 
-// hello 
 class Complex{
 	int a,b;
 	Complex(){
